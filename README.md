@@ -5,4 +5,4 @@ If you would like to play the game without intent of speedrunning, please use hi
 https://planetclue.com/garfieldplus
 
 # Installation
-To install, simply put all the files contained in the zip into the directory of your garfield.exe file.
+To install, simply put all the files contained in the repo into the directory of your garfield.exe file.
