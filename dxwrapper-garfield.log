@@ -1,0 +1,20 @@
+13124 19:06:14.522 Starting DxWrapper v1.1.6900.22
+13124 19:06:14.522 Running from: D:\desktop\GarfieldPlus-v1.01\dxwrapper.dll
+13124 19:06:14.522 Reading config file: D:\desktop\GarfieldPlus-v1.01\dxwrapper.ini
+13124 19:06:14.522 To Be Filled By O.E.M. To Be Filled By O.E.M. To Be Filled By O.E.M. (Desktop)
+13124 19:06:14.522 MSI A320M/ac                        (Desktop)
+13124 19:06:14.522 Radeon RX 570 Series
+13124 19:06:14.524 Windows 10 Home 64-bit (10.0.19041)
+13124 19:06:14.524 garfield.exe (PID:15504)
+13124 19:06:14.530 Environment variable __COMPAT_LAYER = ""
+13124 19:06:14.531 Disabling High DPI Scaling...
+13124 19:06:14.531 Loaded library: user32.dll
+13124 19:06:14.531 Loaded library: shcore.dll
+13124 19:06:14.531 Enabling d3d9 wrapper
+13124 19:06:14.531 Loading 'd3d9.dll'...
+13124 19:06:14.531 Hooking d3d9.dll APIs...
+13124 19:06:14.531 DxWrapper loaded!
+13124 19:06:14.770 d9_Direct3DCreate9
+13124 19:06:14.770 Redirecting 'Direct3DCreate9' ...
+13124 19:06:14.793 Creating interface m_IDirect3D9Ex::m_IDirect3D9Ex (00A91550)
+13124 19:06:14.793 m_IDirect3D9Ex::LogAdapterNames Adapter: 0 \\.\DISPLAY1 Radeon RX 570 Series
